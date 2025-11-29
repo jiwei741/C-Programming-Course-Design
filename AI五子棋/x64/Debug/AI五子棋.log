@@ -1,0 +1,13 @@
+﻿  Chess.cpp
+D:\AI五子棋\Chess.cpp(46,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\AI五子棋\Chess.cpp(63,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\AI五子棋\Chess.cpp(69,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\AI五子棋\Chess.cpp(69,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\AI五子棋\Chess.cpp(155,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Show.cpp
+D:\AI五子棋\Show.cpp(167,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\AI五子棋\Show.cpp(168,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Users.cpp
+  源.cpp
+  正在生成代码...
+  AI五子棋.vcxproj -> D:\AI五子棋\x64\Debug\AI五子棋.exe
